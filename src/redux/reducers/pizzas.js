@@ -24,5 +24,3 @@ const pizzas = (state = initialState, action) => {
 };
 
 export default pizzas;
-
-
